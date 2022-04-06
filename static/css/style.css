@@ -1,0 +1,17 @@
+.sileder-image {
+    object-fit: cover;
+}
+
+@media screen and (min-width: 1200px) {
+    .carousel {
+        width: 1000px;
+        height: 700px;
+        margin: auto;
+    }
+    
+    .sileder-image {
+        width: 1000px;
+        height: 700px;
+    }
+    
+}
